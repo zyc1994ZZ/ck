@@ -29,3 +29,14 @@ saas.sin.fan#saas.sin.fan
 store.ubi.com#store.ubi.com
 cf.tencentapp.cn#cf.tencentapp.cn
 cloudflare-dl.byoip.top#cloudflare-dl.byoip.top
+
+104.18.174.123#SJC 42.46MB/s
+104.16.183.237#SJC 41.09MB/s
+104.18.160.137#SJC 38.47MB/s
+104.16.81.6#SJC 37.34MB/s
+104.16.76.38#SJC 36.28MB/s
+104.21.32.163#SJC 31.63MB/s
+104.18.167.100#SJC 30.83MB/s
+104.16.71.225#SJC 25.45MB/s
+104.17.12.191#SJC 23.71MB/s
+104.19.241.38#SJC 22.84MB/s
