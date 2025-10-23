@@ -1,17 +1,31 @@
 109.120.185.100:2053#斯德哥尔摩
 13.48.175.183:2053#斯德哥尔摩
 139.28.220.16:2053#斯德哥尔摩
-172.67.147.53:2053#AMST
-104.19.161.166#SEA
-172.67.79.247#SEA|46.39MB/s
-172.67.152.53#SEA|44.08MB/s
-104.26.1.118#SEA|39.38MB/s
-104.17.234.103#SEA|24.39MB/s
-104.21.25.127#SEA|22.41MB/s
-162.159.134.1#NRT|46.55MB/s
-162.159.135.150#NRT|45.57MB/s
-162.159.143.219#NRT|39.68MB/s
-162.159.130.53#NRT|37.19MB/s
-162.159.137.39#NRT|30.02MB/s
-
-
+172.67.147.53:2053#阿姆斯特丹
+104.19.161.166#西雅图
+172.67.79.247#西雅图-46.39MB/s
+172.67.152.53#西雅图-44.08MB/s
+104.26.1.118#西雅图-39.38MB/s
+104.17.234.103#西雅图-24.39MB/s
+104.21.25.127#西雅图-22.41MB/s
+162.159.134.1#JP-46.55MB/s
+162.159.135.150#JP-45.57MB/s
+162.159.143.219#JP-39.68MB/s
+162.159.130.53#JP-37.19MB/s
+162.159.137.39#JP-30.02MB/s
+162.159.135.226#JP 45.8MB/s
+162.159.152.19#JP 42.08MB/s
+162.159.143.96#JP 40.54MB/s
+162.159.138.125#JP 38.38MB/s
+162.159.140.73#JP 31.03MB/s
+162.159.153.147#JP 30.65MB/s
+104.18.32.150#SG
+youxuan.cf.090227.xyz#youxuan.cf.090227.xyz
+www.shopify.com#www.shopify.com
+mfa.gov.ua#mfa.gov.ua
+cf.130519.xyz#cf.130519.xyz
+staticdelivery.nexusmods.com#staticdelivery.nexusmods.com
+saas.sin.fan#saas.sin.fan
+store.ubi.com#store.ubi.com
+cf.tencentapp.cn#cf.tencentapp.cn
+cloudflare-dl.byoip.top#cloudflare-dl.byoip.top
